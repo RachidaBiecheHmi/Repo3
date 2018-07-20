@@ -11,7 +11,7 @@ namespace GitRepo3
         static void Main(string[] args)
         {
             Console.WriteLine("Git Repo3");
-            Console.WriteLine("Version 1");
+            Console.WriteLine("Version 2");
             Console.WriteLine("By Rachida");
             Console.Read();
         }
